@@ -1,0 +1,1 @@
+Inserisci nella cartella public il file dna.json
